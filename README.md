@@ -4,7 +4,7 @@
   <a href="https://github.com/sergiohsp">
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=sergiohsp&theme=gotham&show_icons=true"
   include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiohsp&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiohsp&theme=gotham"/>
 </div>
                                                                                                                  
 <br>
