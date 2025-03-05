@@ -11,6 +11,10 @@
                                                                                                                  
 - 🌱 Estudando Sistemas de Informação
 - 📫 Para me contatar: sergio.h.preiss@hotmail.com
+- Meu perfil no Linkedin:  
+  <a href="https://www.linkedin.com/in/s%C3%A9rgio-preiss/" target="_blank">
+    <img align="center" alt="Ser-Linkedin" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
+  </a>
 
 <div style="display: inline_block"><br>
   <img align=center" alt="Ser-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
